@@ -11,11 +11,11 @@
   "username": "visitor",
   "hostname": "webshell",
   "password": "050823",
-  "repoLink": "https://github.com/nasan016/webshell",
+  "repoLink": "https://github.com/rambodazimi",
   "social": {
-    "email": "your@email.com",
-    "github": "yourgithub",
-    "linkedin": "you"
+    "email": "rambod.azm@gmail.com",
+    "github": "https://github.com/rambodazimi",
+    "linkedin": "https://www.linkedin.com/in/rambod-azimi"
   },
   "aboutGreeting": "Hi stranger. Welcome to WebShell.",
   "projects": [
