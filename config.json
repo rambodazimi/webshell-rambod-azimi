@@ -1,21 +1,21 @@
 {
   "ascii": [
-    "██████╗ ██╗   ██╗ ██████╗",
-    "██╔══██╗██║   ██║██╔════╝",
-    "██║  ██║██║   ██║██║  ███╗",
-    "██║  ██║██║   ██║██║   ██║",
-    "██████╔╝╚██████╔╝╚██████╔╝",
-    "╚═════╝  ╚═════╝  ╚═════╝"
+    "███████╗██╗  ██╗███████╗██╗     ██╗",
+    "██╔════╝██║  ██║██╔════╝██║     ██║",
+    "███████╗███████║█████╗  ██║     ██║",
+    "╚════██║██╔══██║██╔══╝  ██║     ██║",
+    "███████║██║  ██║███████╗███████╗███████╗",
+    "╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝"
   ],
   "title": "WebShell",
   "username": "visitor",
   "hostname": "webshell",
   "password": "050823",
-  "repoLink": "https://github.com/rambodazimi",
+  "repoLink": "https://github.com/nasan016/webshell",
   "social": {
-    "email": "rambod.azm@gmail.com",
-    "github": "https://github.com/rambodazimi",
-    "linkedin": "https://www.linkedin.com/in/rambod-azimi"
+    "email": "your@email.com",
+    "github": "yourgithub",
+    "linkedin": "you"
   },
   "aboutGreeting": "Hi stranger. Welcome to WebShell.",
   "projects": [
