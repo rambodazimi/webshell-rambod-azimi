@@ -32,6 +32,7 @@ const COMMANDS = ["help", "about", "projects", "resume", "whoami", "repo", "bann
 const HISTORY : string[] = [];
 const SUDO_PASSWORD = command.password;
 const REPO_LINK = command.repoLink;
+const RESUME_LINK = command.resumeLink;
 
 const scrollToBottom = () => {
   const MAIN = document.getElementById("main");
@@ -228,6 +229,12 @@ function commandHandler(input : string) {
       writeLines(["Redirecting to github.com...", "<br>"]);
       setTimeout(() => {
         window.open(REPO_LINK, '_blank');
+      }, 500);
+      break;
+    case 'resume':
+      writeLines(["Redirecting to the resume...", "<br>"]);
+      setTimeout(() => {
+        window.open(RESUME_LINK, '_blank');
       }, 500);
       break;
     case 'linkedin':
