@@ -22,6 +22,7 @@ const createBanner = () : string[] => {
   banner.push("<br>");
   banner.push("Type <span class='command'>'help'</span> for a list of all available commands.");
   banner.push(`Type <span class='command'>'repo'</span> to view the GitHub repository or click <a href='${command.repoLink}' target='_blank'>here</a>.`);
+  banner.push("Type <span class='command'>'resume'</span> to view the resume or click <a href='" + command.resumeLink + "' target='_blank'>here</a>.");
   banner.push("<br>");
   banner.push("Software Engineering graduate from McGill University.");
   banner.push("Specialized in backend development, cloud computing, and AI-powered software solutions.");
