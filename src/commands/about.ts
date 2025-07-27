@@ -31,21 +31,21 @@ const createAbout = () : string[] => {
   string += SPACE.repeat(2);
   string += github;
   string += SPACE.repeat(17 - GITHUB.length);
-  string += `<a target='_blank' href='${command.social.github}'>github/${command.social.github}</a>`;
+  string += `<a target='_blank' href='${command.social.github}'>${command.social.github}</a>`;
   about.push(string);
 
   string = '';
   string += SPACE.repeat(2);
   string += linkedin;
   string += SPACE.repeat(17 - LINKEDIN.length);  
-  string += `<a target='_blank' href='${command.social.linkedin}'>linkedin/${command.social.linkedin}</a>`;
+  string += `<a target='_blank' href='${command.social.linkedin}'>${command.social.linkedin}</a>`;
   about.push(string);
 
   string = '';
   string += SPACE.repeat(2);
   string += scholar;
   string += SPACE.repeat(17 - SCHOLAR.length);
-  string += `<a target='_blank' href='${command.social.scholar}'>scholar/${command.social.scholar}</a>`;
+  string += `<a target='_blank' href='${command.social.scholar}'>${command.social.scholar}</a>`;
   about.push(string);
 
   about.push("<br>");

@@ -20,19 +20,50 @@
     "linkedin": "https://www.linkedin.com/in/rambod-azimi",
     "scholar": "https://scholar.google.com/citations?user=01658514130000000000&hl=en"
   },
-  "aboutGreeting": "Software engineering graduate from McGill University, specializing in backend development, cloud computing, the development of AI-powered software solutions, automation systems, and scalable web applications. Worked at Quantiphi, McGill, NRC, and MILA on several impactful projects ranging from software engineering to machine learning. Proficient in Python, Java, C, C++, Flask, TensorFlow, PyTorch, SQL, Docker, and more. Previously interned at Ericsson as Network Engineer Intern, and Walter Surface Technologies as IT Intern.",
+  "aboutGreeting": "Software engineering graduate from McGill University.\nSpecializing in backend development, cloud computing, the development of AI-powered software solutions, automation systems, and scalable web applications.\nWorked at Quantiphi, McGill, NRC, and MILA on several impactful projects ranging from software engineering to machine learning.\nProficient in Python, Java, C, C++, Flask, TensorFlow, PyTorch, SQL, Docker, and more.\nPreviously interned at Ericsson as Network Engineer Intern, and Walter Surface Technologies as IT Intern.", 
   "projects": [
     [
-      "GofeR",
-      "Vue.js reactivity in Go.",
-      "https://github.com/nasan016/gofer"
+      "KD‑LoRA (paper)",
+      "Hybrid fine-tuning combining LoRA with knowledge distillation for efficient LLM adaptation",
+      "https://arxiv.org/abs/2410.20777"
     ],
     [
-      "WebShell",
-      "Terminal styled website.",
-      "https://github.com/nasan016/webshell"
+      "SEMU‑Net (paper)",
+      "SEMU‑Net: segmentation‑based corrector for fabrication process variations of nanophotonics, accepted to WACV 2025",
+      "https://arxiv.org/abs/2411.16973"
+    ],
+    [
+      "Dashcam-Object-Tracking-System",
+      "Analyzes dashcam footage to track parked/moving cars and pedestrians",
+      "https://github.com/rambodazimi/Dashcam-Object-Tracking-System"
+    ],
+    [
+      "AI‑Game‑Agent",
+      "An AI agent that plays games using ML methods",
+      "https://github.com/rambodazimi/AI-Game-Agent"
+    ],
+    [
+      "Gourmet‑Guru‑Weekly‑Meal‑Planner",
+      "Weekly meal planner app (forked from ECSE428 class project)",
+      "https://github.com/rambodazimi/Gourmet-Guru-Weekly-Meal-Planner"
+    ],
+    [
+      "Arena‑Ticketing‑System",
+      "Java‑based ticketing system built for COMP421 class project",
+      "https://github.com/rambodazimi/Arena-Ticketing-System"
+    ],
+    [
+      "OS‑simulation",
+      "OS simulation in C with shell commands, memory & process management",
+      "https://github.com/rambodazimi/OS-simulation"
+    ],
+    [
+      "Reliable‑Network‑Design",
+      "Design communication networks maximizing reliability under cost constraints",
+      "https://github.com/rambodazimi/Reliable-Network-Design"
     ]
   ],
+
   "colors": {
     "background": "#0C0623",
     "foreground": "#F8DDE5",

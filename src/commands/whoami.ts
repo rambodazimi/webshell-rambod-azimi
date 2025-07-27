@@ -7,7 +7,7 @@ const whoamiObj = {
       "but for purpose.",
       "Between research papers and production code,",
       "I’ve taught machines to learn,",
-      "but still ask myself:"
+      "but still ask myself: "
     ],
   ],
 }
