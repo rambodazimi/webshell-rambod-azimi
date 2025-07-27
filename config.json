@@ -17,9 +17,10 @@
   "social": {
     "email": "rambod.azm@gmail.com",
     "github": "https://github.com/rambodazimi",
-    "linkedin": "https://www.linkedin.com/in/rambod-azimi"
+    "linkedin": "https://www.linkedin.com/in/rambod-azimi",
+    "scholar": "https://scholar.google.com/citations?user=01658514130000000000&hl=en"
   },
-  "aboutGreeting": "Hi stranger. Welcome to WebShell.",
+  "aboutGreeting": "Software engineering graduate from McGill University, specializing in backend development, cloud computing, the development of AI-powered software solutions, automation systems, and scalable web applications. Worked at Quantiphi, McGill, NRC, and MILA on several impactful projects ranging from software engineering to machine learning. Proficient in Python, Java, C, C++, Flask, TensorFlow, PyTorch, SQL, Docker, and more. Previously interned at Ericsson as Network Engineer Intern, and Walter Surface Technologies as IT Intern.",
   "projects": [
     [
       "GofeR",

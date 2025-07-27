@@ -19,8 +19,10 @@ const createBanner = () : string[] => {
   });  
   banner.push("<br>");
   banner.push("Welcome to Rambod Azimi's Personal Website");
+  banner.push("<br>");
   banner.push("Type <span class='command'>'help'</span> for a list of all available commands.");
   banner.push(`Type <span class='command'>'repo'</span> to view the GitHub repository or click <a href='${command.repoLink}' target='_blank'>here</a>.`);
+  banner.push("<br>");
   banner.push("Software Engineering graduate from McGill University.");
   banner.push("Specialized in backend development, cloud computing, and AI-powered software solutions.");
   banner.push("Experienced in building scalable web apps, automation systems, and managing complex databases.");
