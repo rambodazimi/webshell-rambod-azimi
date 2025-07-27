@@ -21,7 +21,7 @@
     "linkedin": "https://www.linkedin.com/in/rambod-azimi",
     "scholar": "https://scholar.google.com/citations?user=01658514130000000000&hl=en"
   },
-  "aboutGreeting": "Software engineering graduate from McGill University.\nSpecializing in backend development, cloud computing, the development of AI-powered software solutions, automation systems, and scalable web applications.\nWorked at Quantiphi, McGill, NRC, and MILA on several impactful projects ranging from software engineering to machine learning.\nProficient in Python, Java, C, C++, Flask, TensorFlow, PyTorch, SQL, Docker, and more.\nPreviously interned at Ericsson as Network Engineer Intern, and Walter Surface Technologies as IT Intern.", 
+  "aboutGreeting": "I'm Rambod, a researcher in ML/AI and a passionate software engineer.", 
   "projects": [
     [
       "KD-LoRA (paper)",
