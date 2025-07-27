@@ -18,9 +18,14 @@ const createBanner = () : string[] => {
     banner.push(eleToPush);
   });  
   banner.push("<br>");
-  banner.push("Welcome to WebShell v1.0.0");
+  banner.push("Welcome to Rambod Azimi's Personal Website");
   banner.push("Type <span class='command'>'help'</span> for a list of all available commands.");
   banner.push(`Type <span class='command'>'repo'</span> to view the GitHub repository or click <a href='${command.repoLink}' target='_blank'>here</a>.`);
+  banner.push("Software Engineering graduate from McGill University.");
+  banner.push("Specialized in backend development, cloud computing, and AI-powered software solutions.");
+  banner.push("Experienced in building scalable web apps, automation systems, and managing complex databases.");
+  banner.push("Worked at Quantiphi, McGill, NRC, and MILA on impactful engineering and ML projects.");
+  banner.push("Skilled in Python, Java, C/C++, SQL, Flask, TensorFlow, PyTorch, Docker, and more.");
   banner.push("<br>");
   return banner;
 }
