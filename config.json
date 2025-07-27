@@ -24,9 +24,15 @@
   "projects": [
     [
       "KD-LoRA (paper)",
-      "Hybrid fine-tuning combining LoRA with knowledge distillation for efficient LLM adaptation",
+      "Combining LoRA with knowledge distillation",
       "https://arxiv.org/abs/2410.20777"
+    ],
+    [
+      "SEMU-Net (paper)",
+      "Segmentation based corrector for fabrication process variations of nanophotonics",
+      "https://arxiv.org/abs/2411.16973"
     ]
+    
   ],
 
 
