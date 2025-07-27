@@ -23,13 +23,13 @@
   "aboutGreeting": "Software engineering graduate from McGill University.\nSpecializing in backend development, cloud computing, the development of AI-powered software solutions, automation systems, and scalable web applications.\nWorked at Quantiphi, McGill, NRC, and MILA on several impactful projects ranging from software engineering to machine learning.\nProficient in Python, Java, C, C++, Flask, TensorFlow, PyTorch, SQL, Docker, and more.\nPreviously interned at Ericsson as Network Engineer Intern, and Walter Surface Technologies as IT Intern.", 
   "projects": [
     [
-      "KD LoRA (paper)",
+      "KD-LoRA (paper)",
       "Hybrid fine-tuning combining LoRA with knowledge distillation for efficient LLM adaptation",
       "https://arxiv.org/abs/2410.20777"
     ],
     [
-      "SEMUNet (paper)",
-      "SEMUNet: segmentation based corrector for fabrication process variations of nanophotonics, accepted to WACV 2025",
+      "SEMU-Net (paper)",
+      "SEMU-Net: segmentation-based corrector for fabrication process variations of nanophotonics, accepted to WACV 2025",
       "https://arxiv.org/abs/2411.16973"
     ],
     [
@@ -49,7 +49,7 @@
     ],
     [
       "Arena Ticketing System",
-      "Java based ticketing system built for COMP421 class project",
+      "Java-based ticketing system built for COMP421 class project",
       "https://github.com/rambodazimi/Arena-Ticketing-System"
     ],
     [
@@ -63,6 +63,7 @@
       "https://github.com/rambodazimi/Reliable-Network-Design"
     ]
   ],
+
 
   "colors": {
     "background": "#0C0623",
