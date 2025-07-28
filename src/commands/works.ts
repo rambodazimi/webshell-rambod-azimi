@@ -21,4 +21,4 @@ const createWork = (): string[] => {
   return works;
 };
 
-export const WORK = createWork();
+export const WORKS = createWork();
