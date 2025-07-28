@@ -26,7 +26,7 @@ const createBanner = () : string[] => {
   banner.push("<br>");
   banner.push("Software Engineering graduate from McGill University.");
   banner.push("Specialized in AI software solutions, including ML and LLMs.");
-  banner.push("Experienced in building scalable web apps and automation systems");
+  banner.push("Experienced in building scalable web apps and automation systems.");
   banner.push("Worked at Quantiphi, McGill, NRC, MILA, Ericsson, and more.");
   banner.push("Skilled in Python, Java, C, PyTorch, Docker, and more.");
   banner.push("<br>");

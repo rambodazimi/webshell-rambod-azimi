@@ -30,8 +30,13 @@
     ],
     [
       "SEMU-Net (paper)",
-      "Segmentation based corrector for fabrication process variations of nanophotonics",
+      "Segmentation based corrector in photonic devices",
       "https://arxiv.org/abs/2411.16973"
+    ],
+    [
+      "AI Game Agent",
+      "An AI agent that plays games using ML methods",
+      "https://github.com/rambodazimi/AI-Game-Agent"
     ],
     [
       "AI Game Agent",
