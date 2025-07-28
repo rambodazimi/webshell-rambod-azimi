@@ -57,6 +57,11 @@
       "OS Simulation",
       "In C, supporting shell commands",
       "https://github.com/rambodazimi/OS-simulation"
+    ],
+    [
+      "Reliable Network Design",
+      "Maximizing reliability under cost constraints",
+      "https://github.com/rambodazimi/Reliable-Network-Design"
     ]
   ],
 
