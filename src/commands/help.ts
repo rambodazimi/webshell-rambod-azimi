@@ -9,6 +9,10 @@ const helpObj = {
       "Maybe there's something interesting."
     ],
     [
+      "'work experience'",
+      "Where skills are forged, and stories begin."
+    ],
+    [
       "'resume'",
       "View the resume."
     ],

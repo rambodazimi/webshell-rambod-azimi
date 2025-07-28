@@ -65,6 +65,13 @@
     ]
   ],
 
+  "works": [
+    [
+      "KD-LoRA (paper)",
+      "Combining LoRA with knowledge distillation",
+      "https://arxiv.org/abs/2410.20777"
+    ]
+  ],
 
   "colors": {
     "background": "#0C0623",

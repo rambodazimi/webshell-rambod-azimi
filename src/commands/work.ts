@@ -1,24 +1,24 @@
 import command from '../../config.json' assert { type: 'json' };
 
 const createWork = (): string[] => {
-  const projects: string[] = [];
+  const works: string[] = [];
   const SPACE = "&nbsp;";
-  const files = `${command.projects.length} File(s)`;
+  const files = `${command.works.length} File(s)`;
 
-  projects.push("<br>");
+  works.push("<br>");
 
-  command.projects.forEach(([title, description, url]) => {
+  command.works.forEach(([title, description, url]) => {
     const link = `<a href="${url}" target="_blank">${title}</a>`;
     const padding = SPACE.repeat(Math.max(2, 17 - title.length));
     const line = `${SPACE.repeat(2)}${link}${padding}${description}`;
-    projects.push(line);
+    works.push(line);
   });
 
-  projects.push("<br>");
-  projects.push(files);
-  projects.push("<br>");
+  works.push("<br>");
+  works.push(files);
+  works.push("<br>");
 
-  return projects;
+  return works;
 };
 
 export const WORK = createWork();
