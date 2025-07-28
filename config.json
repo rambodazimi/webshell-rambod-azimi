@@ -40,13 +40,23 @@
     ],
     [
       "Dashcam Object Tracking System",
-      "Track cars and pedestrians with computer vision",
+      "Track cars with computer vision",
       "https://github.com/rambodazimi/Dashcam-Object-Tracking-System"
     ],
     [
       "Gourmet Guru Weekly Meal Planner",
       "Weekly meal planner software app",
       "https://github.com/rambodazimi/Gourmet-Guru-Weekly-Meal-Planner"
+    ],
+    [
+      "Arena Ticketing System",
+      "Java based ticketing system",
+      "https://github.com/rambodazimi/Arena-Ticketing-System"
+    ],
+    [
+      "OS Simulation",
+      "In C, supporting shell commands",
+      "https://github.com/rambodazimi/OS-simulation"
     ]
   ],
 
