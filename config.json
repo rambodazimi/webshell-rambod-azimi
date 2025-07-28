@@ -67,9 +67,34 @@
 
   "works": [
     [
-      "KD-LoRA (paper)",
-      "Combining LoRA with knowledge distillation",
-      "https://arxiv.org/abs/2410.20777"
+      "NRC x McGill",
+      "Research Assistant (ML)",
+      "https://nrc.canada.ca/en/using-ai-improve-fabrication-nanophotonic-components"
+    ],
+    [
+      "Quantiphi Analytics",
+      "Research Engineer Intern (LLM)",
+      "https://quantiphi.com"
+    ],
+    [
+      "Mila - Quebec AI Institute",
+      "Machine Learning Researcher (LLM)",
+      "https://mila.quebec/en/directory/rambod-azimi"
+    ],
+    [
+      "Walter Surface Technologies",
+      "IT Intern",
+      "https://www.walter.com/ca/?redirect=false"
+    ],
+    [
+      "Ericsson",
+      "Network Engineer Intern",
+      "https://www.ericsson.com/en"
+    ],
+    [
+      "McGill University",
+      "IT Assistant",
+      "https://www.mcgill.ca/pgme"
     ]
   ],
 
