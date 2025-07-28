@@ -25,10 +25,10 @@ const createBanner = () : string[] => {
   banner.push("Type <span class='command'>'resume'</span> to view the resume or click <a href='" + command.resumeLink + "' target='_blank'>here</a>.");
   banner.push("<br>");
   banner.push("Software Engineering graduate from McGill University.");
-  banner.push("Specialized in backend development, cloud computing, and AI-powered software solutions.");
-  banner.push("Experienced in building scalable web apps, automation systems, and managing complex databases.");
-  banner.push("Worked at Quantiphi, McGill, NRC, and MILA on impactful engineering and ML projects.");
-  banner.push("Skilled in Python, Java, C/C++, SQL, Flask, TensorFlow, PyTorch, Docker, and more.");
+  banner.push("Specialized in AI software solutions, including ML and LLMs.");
+  banner.push("Experienced in building scalable web apps and automation systems");
+  banner.push("Worked at Quantiphi, McGill, NRC, MILA, Ericsson, and more.");
+  banner.push("Skilled in Python, Java, C, PyTorch, Docker, and more.");
   banner.push("<br>");
   return banner;
 }

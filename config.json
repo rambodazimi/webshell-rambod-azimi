@@ -21,7 +21,7 @@
     "linkedin": "https://www.linkedin.com/in/rambod-azimi",
     "scholar": "https://scholar.google.com/citations?user=01658514130000000000&hl=en"
   },
-  "aboutGreeting": "I'm Rambod, a researcher in ML/AI and a passionate software engineer.", 
+  "aboutGreeting": "I'm Rambod, a researcher in ML/AI and a software engineer.", 
   "projects": [
     [
       "KD-LoRA (paper)",
